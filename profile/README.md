@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0E7490,100:38BDF8&height=210&section=header&text=Singularity%20AI%20Lab&fontColor=FFFFFF&fontSize=44&fontAlignY=37&desc=Optimization%20%7C%20AI%20for%20Science%20%7C%20Energy%20AI%20%7C%20LLMs&descSize=17&descAlignY=58&animation=fadeIn" alt="Singularity AI Lab banner" />
+  <img src="https://raw.githubusercontent.com/Singularity-AI-Lab/.github/main/profile/assets/research-fusion-banner.svg" alt="Abstract research banner fusing optimization contours, AI for science structures, energy grid waveforms, and LLM token flows" width="100%" />
+</p>
+
+<h1 align="center">Singularity AI Lab</h1>
+
+<p align="center">
+  <strong>Optimization | AI for Science | Energy AI | Large Language Models</strong>
 </p>
 
 <p align="center">
