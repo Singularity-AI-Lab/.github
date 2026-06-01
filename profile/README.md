@@ -63,8 +63,9 @@ Recent work from the group includes accepted ICML 2026 papers on off-policy lear
 
 ## Links
 
-- Research group website: [mtakac.com](https://mtakac.com/)
-- GitHub organization: [Singularity-AI-Lab](https://github.com/Singularity-AI-Lab)
+- PI's website: [mtakac.com](https://mtakac.com/)
+- Current GitHub organization: [Singularity-AI-Lab](https://github.com/Singularity-AI-Lab)
+- Related GitHub organizations: [optml](https://github.com/optml), [OptimizationForMachineLearning](https://github.com/OptimizationForMachineLearning), [OptMLGroup](https://github.com/OptMLGroup) (former group org)
 - MBZUAI: [mbzuai.ac.ae](https://mbzuai.ac.ae/)
 
 <p align="center">
