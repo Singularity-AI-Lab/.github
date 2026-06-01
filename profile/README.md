@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://mtakac.com/"><img alt="Martin Takac website" src="https://img.shields.io/badge/Research%20Group-Martin%20Takac-0F172A?style=for-the-badge" /></a>
+  <a href="https://mtakac.com/"><img alt="Martin Takac research group PI" src="https://img.shields.io/badge/PI-Martin%20Takac-0F172A?style=for-the-badge" /></a>
   <a href="https://mbzuai.ac.ae/"><img alt="MBZUAI" src="https://img.shields.io/badge/MBZUAI-Abu%20Dhabi-0E7490?style=for-the-badge" /></a>
   <img alt="Open research" src="https://img.shields.io/badge/Open%20Research-Code%20%2B%20Papers-0891B2?style=for-the-badge" />
 </p>
 
 ## Research code for useful AI systems
 
-Singularity AI Lab is a research engineering home for projects connected to Martin Takac's group at Mohamed bin Zayed University of Artificial Intelligence. The work follows four recurring themes from the group website: optimization, AI for science, energy AI, and large language models.
+Singularity AI Lab is the research engineering home for projects from the research group led by Martin Takac, PI at Mohamed bin Zayed University of Artificial Intelligence. The work follows four recurring themes from the group website: optimization, AI for science, energy AI, and large language models.
 
 The goal is practical research code: methods that can be inspected, reproduced, extended, and used in scientific or engineering workflows.
 
