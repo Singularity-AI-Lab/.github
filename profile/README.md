@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Singularity-AI-Lab/.github/main/profile/assets/research-fusion-banner.svg" alt="Abstract research banner fusing optimization contours, AI for science structures, energy grid waveforms, and LLM token flows" width="100%" />
+  <img src="https://raw.githubusercontent.com/Singularity-AI-Lab/.github/main/profile/assets/research-fusion-banner.jpg" alt="Generated research banner fusing optimization contours, AI for science structures, energy grid waveforms, and LLM token flows" width="100%" />
 </p>
 
 <h1 align="center">Singularity AI Lab</h1>
